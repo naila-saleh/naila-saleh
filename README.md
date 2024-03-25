@@ -2,6 +2,8 @@
 <p>- 🌱 I’m currently a student in PTUK</p>
 <p>- 📫 How to reach me https://www.linkedin.com/in/naila-saleh-295691279/</p>
 <hr/>
+<img src="https://leetcard.jacoblin.cool/naila_saleh?theme=dark&font=source_code_pro"/>
+<hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=naila-saleh&theme=midnight-purple&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naila-saleh&theme=midnight-purple&hide_progress=true"/>
 
