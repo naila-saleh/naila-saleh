@@ -18,7 +18,7 @@
         </div>
         <hr/>
         <div>
-            <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naila-saleh&theme=midnight-purple&hide_progress=true"/>
+            <img width="500" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naila-saleh&layout=compact&langs_count=8&theme=midnight-purple"/>
         </div>
     </div>
 </body>
